@@ -5,4 +5,3 @@ ich bin Kurt und bin jetzt öfters hier ... ;-)
 
 und das ist die readme dazu //ToDO Warum eigentlich .md?
 
-jetzt sind wir auf dem Branchredme-edits
