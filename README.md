@@ -1,4 +1,6 @@
-﻿# hello-world
+﻿Änderung im branch master die zu KOnflikten fuehrt
+
+# hello-world
 Mein Git hello-world Projekt
 
 ich bin Kurt und bin jetzt öfters hier ... ;-)
