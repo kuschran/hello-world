@@ -1,4 +1,5 @@
-﻿Aenderung vom 29.10.17 im branch reade-edits ...
+﻿Aenderung in branch readme-edits die zu KOnflikten führen soll
+Aenderung vom 29.10.17 im branch reade-edits ...
 
 # hello-world
 Mein Git hello-world Projekt
