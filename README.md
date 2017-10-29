@@ -1,3 +1,5 @@
+﻿Aenderung vom 29.10.17 im branch reade-edits ...
+
 # hello-world
 Mein Git hello-world Projekt
 
