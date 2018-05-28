@@ -1,4 +1,5 @@
-﻿und das ist die Loesung des Konflikts!
+﻿Änderung vom 28.05.18
+und das ist die Loesung des Konflikts!
 
 # hello-world
 Mein Git hello-world Projekt
@@ -15,3 +16,5 @@ zur Demo für den Stash
 =======
 jetzt sind wir auf dem Branchredme-edits
 >>>>>>> readme-edits
+
+Test vom Mac 03.02.18 17:19
