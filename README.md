@@ -1,4 +1,5 @@
-﻿Änderung vom 28.05.18
+﻿und noch eine Änderung vom 28.05.18
+Änderung vom 28.05.18
 und das ist die Loesung des Konflikts!
 
 # hello-world
