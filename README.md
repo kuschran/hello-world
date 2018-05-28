@@ -1,4 +1,11 @@
-﻿und noch eine Änderung vom 28.05.18
+﻿IDEA Änderung
+
+
+Änderung für nen Stash Test
+
+es hoert nicht auf
+
+und noch eine Änderung vom 28.05.18
 Änderung vom 28.05.18
 und das ist die Loesung des Konflikts!
 
